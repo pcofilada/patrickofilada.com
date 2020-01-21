@@ -1,0 +1,48 @@
+baseURL = "http://patrickofilada.com"
+title = "Patrick Ofilada"
+theme = "hugo-coder"
+languagecode = "en"
+
+[params]
+  author = "Patrick Ofilada"
+  info = "Software Engineer"
+  description = "I am a Software Engineer with industry experience helping product owners making there idea into reality. In the last 5+ years, I've been mostly building applications focusing on Ruby on Rails and Javascript. I also have experience working with Elixir, GraphQL, ReactJS and React Native. "
+  keywords = "software engineer, developer, programmer, javascript, reactjs, ruby on rails, philippines"
+  avatarurl = "images/profile.jpg"
+
+  favicon_32 = "/images/favicon.ico"
+  favicon_16 = 	"/images/favicon.ico"
+  
+  math = true
+
+# Social links
+  [[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/pcofilada"
+  [[params.social]]
+    name = "Dev.to"
+    icon = "fab fa-dev fa-2x"
+    weight = 1
+    url = "https://dev.to/pcofilada"
+  [[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 1
+    url = "https://linkedin.com/in/pcofilada/"
+  [[params.social]]
+    name = "Facebook"
+    icon = "fab fa-facebook fa-2x"
+    weight = 1
+    url = "https://facebook.com/xAgentP"
+  [[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 1
+    url = "https://twitter.com/pcofilada"
+  [[params.social]]
+    name = "Instagram"
+    icon = "fab fa-instagram fa-2x"
+    weight = 1
+    url = "https://instagram.com/pcofilada"
