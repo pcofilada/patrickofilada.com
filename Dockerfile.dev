@@ -1,0 +1,4 @@
+FROM envimate/hugo
+WORKDIR /app
+COPY . .
+CMD ["hugo", "server", "--bind=0.0.0.0"]
